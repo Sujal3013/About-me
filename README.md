@@ -5,6 +5,9 @@
   <a href="linkedin.com/in/sujal-mishra-95bb8921a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
+  <a href="https://www.codechef.com/users/sujal_3013">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" width="110" alt="Codechef Badge/">
+  </a><br>  
   <img src="https://komarev.com/ghpvc/?username=Sujal3013&style=flat-square&color=blue" alt=""/>
   
 </div>
@@ -27,7 +30,7 @@ I'm  Sujal Mishra
 ### :hammer_and_wrench: Languages and Tools :
 C++ <br>
 HTML/CSS <br>
-GOOGLE CLOUD BASICS ESSENTIALS
+GOOGLE CLOUD BASIC SKILLS
 
 ---
 
