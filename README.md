@@ -8,6 +8,7 @@
   <a href="https://www.codechef.com/users/sujal_3013">
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" width="110" alt="Codechef Badge/">
   </a><br>  
+  
   <img src="https://komarev.com/ghpvc/?username=Sujal3013&style=flat-square&color=blue" alt=""/>
   
 </div>
@@ -30,7 +31,9 @@ I'm  Sujal Mishra
 ### :hammer_and_wrench: Languages and Tools :
 C++ <br>
 HTML/CSS <br>
-GOOGLE CLOUD BASIC SKILLS
+GOOGLE CLOUD BASIC SKILLS  <a href="https://www.cloudskillsboost.google/public_profiles/b6a20e1e-448a-40a2-816e-05edae9686e6">
+  <img src="https://events.withgoogle.com/media/4a231755/img/microsite-wsx/logos/google-cloud.png" width="100">
+  </a><br>
 
 ---
 
