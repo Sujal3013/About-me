@@ -19,18 +19,19 @@ I'm  Sujal Mishra
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m  interested in Computer programming & DSA ,AI & Data Science.
+- :telescope: I’m  interested in Computer programming, DSA ,Data Science.
 
-- :seedling: I'm currently exploring DSA and Google cloud basics.
+- :seedling: I'm currently grinding DSA and upskilling in MERN stack development.
 
-- :zap: In my free time, I solve problems on Codechef,Hackerrank platform and gaining more knowledge about technologies by google feeds and blogs.
+- :zap: In my free time, I solve problems on Codeforces platform and gaining more knowledge about technologies by google feeds and medium blogs.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/sujal-mishra-95bb8921a)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-C++ <br>
-HTML/CSS <br>
+C++,Python <br>
+HTML5,CSS3,Javascript <br>
+Python for developing ML models<br>
 GOOGLE CLOUD BASIC SKILLS  <a href="https://www.cloudskillsboost.google/public_profiles/b6a20e1e-448a-40a2-816e-05edae9686e6">
   <img src="https://events.withgoogle.com/media/4a231755/img/microsite-wsx/logos/google-cloud.png" width="100">
   </a><br>
